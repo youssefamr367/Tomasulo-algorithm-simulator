@@ -1,0 +1,3 @@
+SUB.D R1, R2, R3
+SUB.I R1, R1, 1
+BNEZ R1, 0
